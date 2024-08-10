@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Fullstack Web developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1413922045/vector/programming-at-home.jpg?s=612x612&w=0&k=20&c=_5UhZu0-etj-lWZorNUAkF_PEqXfHpuf44dCeWeCOvc=">
 
-- 🔭 I’m currently an intern at PlanetSpark working as **Ruby on Rails intern.**
-
 - 🌱 I’m currently learning **React Native.**
 
 - 👯 I’m looking to collaborate on **Generative AI project.**
